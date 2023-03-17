@@ -18,7 +18,7 @@ public class Main {
 
     public static void myFunction() {
 
-        logger.info("Message from log4j1 client");
+        logger.info("log message from log4j1 client library");
 
 
     }

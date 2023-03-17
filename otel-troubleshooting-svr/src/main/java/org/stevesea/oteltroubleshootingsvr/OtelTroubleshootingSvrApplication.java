@@ -13,7 +13,7 @@ public class OtelTroubleshootingSvrApplication {
 
 	public static void main(String[] args) {
 
-		logger.info("in Main");
+		logger.info("log message from log4j2 app");
 
 		Main.myFunction();
 
