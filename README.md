@@ -2,8 +2,9 @@
 
 repo to demonstrate issue with missing log4j1 messages from a log4j2 app.
 
-otel-troubleshooting-svr -- spring boot app using log4j2
-clientlib -- library using log4j1
+`otel-troubleshooting-svr` -- spring boot app using log4j2
+
+`clientlib` -- library using log4j1
 
 to reproduce:
 
